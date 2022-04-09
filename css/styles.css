@@ -1,0 +1,148 @@
+div {
+  margin:0;
+}
+
+p{
+  margin:0
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #FDF6EC;
+}
+
+.contact-me{
+  text-align: center;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  color:#525E75;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color:#78938A;
+  font-weight: normal;
+  margin: auto;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color:#92BA92;
+}
+
+hr{
+  border-color: grey;
+  border-style: dotted none none none;
+  border-width:5px;
+  border-radius: 20;
+  width: 5%;
+  margin:30px 47.5% 30px 47.5%;
+  }
+
+.footer-link{
+  color: #22577E;
+  margin:20px;
+  text-decoration: none;
+}
+a:hover{
+  color:#EAF6F6;}
+
+
+.piano{
+  width:26%;
+  float: left;
+  margin-right: 30px;
+}
+.pearl{
+  width:26%;
+  float: right;
+  margin-left: 30px;
+}
+
+.Container {
+  height: 200px;
+  width: 200px;
+}
+
+.Upper {
+  border: 10px;
+  padding: 20px;
+  position: relative;
+  padding-top: 100px;
+  background-color: #E5EFC1;
+}
+
+.footer {
+  border:10px;
+  padding: 25px;
+  background-color: #9FC088;
+  margin-top: 50px;
+}
+
+
+
+.contact{
+  margin-bottom: 30px;
+  width: 100%;
+}
+
+.logo{
+  color:white;
+  margin-top: 20px;
+  font-size: 0.75rem;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 250px;
+  left:120px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.Wo{
+  text-decoration: underline;
+}
+
+.skill-row{
+width: 50%;
+margin:20px auto;
+text-align: left;
+line-height: 2;
+padding-bottom: 20px;
+}
+
+.intro{
+  width: 50%;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.giphy{
+background-color: #FDF6EC;}
+
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  text-shadow: 0px 0px 3px #666666;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 20px;
+  background: #A2B38B;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
